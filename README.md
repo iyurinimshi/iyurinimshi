@@ -51,7 +51,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCiXFCxRdvYTS2gBIkicRfXQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="lochanapahansilu" height="50" width="50" /></a>
+<a href="[https://www.youtube.com/channel/UCiXFCxRdvYTS2gBIkicRfXQ](https://www.youtube.com/@iyurinimesha)" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="lochanapahansilu" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/iyuri-nimesha-a80130269/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Lochana Pahansilu" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/21902936/lochana-pahansilu?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Lochana Pahansilu" height="50" width="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=100087972903737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
