@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Lochana Pahansilu</h1>
+<h1 align="center">Hi 👋, I'm Iyuri Nimesha</h1>
 <h3 align="center">Full Stack SE/ Full Stack Web Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lochana2005&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java/ C++/ C#/ PHP/ JS/ React**
 
-- 📫 How to reach me **lochanamax38@@gmail.com**
+- 📫 How to reach me **iyurinimshi@gmail.com**
   
 - ⚡ Fun fact **Call me as LP**
 
@@ -35,13 +35,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lochana2005&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iyurinimshi&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lochana2005&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iyurinimshi&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lochana2005&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iyurinimshi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -52,7 +52,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.youtube.com/channel/UCiXFCxRdvYTS2gBIkicRfXQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="lochanapahansilu" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/lochana-pahansilu-b7610b268" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Lochana Pahansilu" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/iyuri-nimesha-a80130269/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Lochana Pahansilu" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/21902936/lochana-pahansilu?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Lochana Pahansilu" height="50" width="50" /></a>
 <a href="https://fb.com/jal.pahansilu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
 <a href="https://www.instagram.com/lochana_pahansilu/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
